@@ -1,15 +1,18 @@
+import Link from "next/link";
+
 export default function Menu() {
   return (
     <nav>
       <ul>
+        {/* nomes dos arquivos */}
         <li>
-          <a href="">Home</a>
+          <Link href="/">Home</Link>
         </li>
         <li>
-          <a href="">Serviços</a>
+          <Link href="/equipe">Serviços</Link>
         </li>
         <li>
-          <a href="">Equipe</a>
+          <Link href="/servicos">Equipe</Link>
         </li>
       </ul>
     </nav>
