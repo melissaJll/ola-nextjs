@@ -5,10 +5,9 @@ export default function Home() {
     <>
       <h1> Olá Next.js</h1>
       <Menu />
-      <main>
-        <h2>Bem Vindo ao Next.js</h2>
-        <h3>Página Inicial</h3>
-      </main>
+
+      <h2>Bem Vindo ao Next.js</h2>
+      <h3>Página Inicial</h3>
     </>
   );
 }

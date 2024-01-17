@@ -5,14 +5,13 @@ export default function Servicos() {
     <>
       <h1> Olá Next.js</h1>
       <Menu />
-      <main>
-        <h2>Serviços</h2>
-        <ol>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-        </ol>
-      </main>
+
+      <h2>Serviços</h2>
+      <ol>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+        <li>Lorem ipsum dolor sit amet.</li>
+      </ol>
     </>
   );
 }
