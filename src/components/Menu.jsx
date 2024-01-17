@@ -9,10 +9,10 @@ export default function Menu() {
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/equipe">Serviços</Link>
+          <Link href="/equipe">Equipe</Link>
         </li>
         <li>
-          <Link href="/servicos">Equipe</Link>
+          <Link href="/servicos">Serviços </Link>
         </li>
       </ul>
     </nav>
